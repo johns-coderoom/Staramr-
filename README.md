@@ -8,4 +8,5 @@ For example:
 staramr search -o out --pointfinder-organism salmonella *.fasta
 out/summary.tsv:
 
-https://github.com/johns-coderoom/Staramr-/blob/main/output.docx
+![output](https://github.com/user-attachments/assets/1c84c6c8-c762-4b38-8a66-114397936447)
+
